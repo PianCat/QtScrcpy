@@ -11,7 +11,7 @@
 
 QtScrcpy 可以通过 USB / 网络连接Android设备，并进行显示和控制。无需root权限。
 
-同时支持 GNU/Linux ，Windows 和 MacOS 三大主流桌面平台。
+同时支持 GNU/Linux ，Windows 和 MacOS 三大主流桌面平台。（此Fork用于获取Ci版本）
 
 它专注于:
 
